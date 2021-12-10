@@ -3,7 +3,7 @@
 To use the RandPass tool, review the command line below
 
 ```sh
-sudo python RandPass.py
+python3 RandPass.py
 ```
 - You will see a text like this:
 ```Enter password length: ```
