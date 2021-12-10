@@ -11,4 +11,4 @@ python3 RandPass.py
 - Enter how many characters the password should be
 
 - Finally, your password will be created
-``` ex: Your password: XXXX
+``` ex: Your password: XXXX ```
