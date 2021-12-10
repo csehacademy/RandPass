@@ -10,4 +10,4 @@ sudo python RandPass.py
 
 - Enter how many characters the password should be
 
-- Finally password will be created
+- Finally, your password will be created
